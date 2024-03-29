@@ -1,2 +1,3 @@
 # valibot-ha-iizo-demo
-LT「Valibotはいいぞ」デモ
+
+LT「[Valibot はいいぞ](https://github.com/ygkn/valibot-ha-iizo-demo)」デモ
